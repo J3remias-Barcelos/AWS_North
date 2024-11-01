@@ -1,0 +1,15 @@
+.terraform
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+.terraform/providers/registry.terraform.io/hashicorp/aws
+.terraform/plugins
+.terraform/plugin-cache
+.terraform/modules
+.terraform/.terraform.lock.hcl
+.terraform/.terraform.lock.info
